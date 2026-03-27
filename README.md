@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 Gustavo de Oliveira</h1>
+<h1 align="center"> Gustavo de Oliveira</h1>
 
 <p align="center">
   <b>Java Developer in Progress • Technology Enthusiast • Problem Solver</b>
@@ -15,27 +15,27 @@
 
 ---
 
-## ⚡ About Me
+## About Me
 
-💻 Estudante e desenvolvedor em evolução constante, focado em **Java**, lógica de programação e desenvolvimento de software.
+ Desenvolvedor em formação com foco em **Java** e fundamentos sólidos de programação.
 
-🎯 Atualmente construindo base sólida em:
+ Atualmente estudando e evoluindo em:
 
 - Programação Orientada a Objetos
 - Estruturas de Dados
+- Lógica de Programação
 - Backend Development
 - Clean Code
-- Resolução de problemas reais através da programação
 
-🚀 Buscando transformar conhecimento técnico em soluções eficientes e escaláveis.
+Evoluindo constantemente através de prática, estudo e construção de soluções eficientes.
 
 ---
 
-## 🧠 Tech Stack
+##  Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,c,js,react,git,github,linux,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,c,git,github,linux,vscode&theme=dark" />
 
 </p>
 
@@ -44,19 +44,23 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GustavoOMendonca&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoOMendonca&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img height="170em"
+src="https://github-readme-stats.vercel.app/api?username=GustavoOMendonca&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800"/>
+
+<img height="170em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoOMendonca&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+
 </p>
 
 ---
 
 ## 🔥 Current Focus
 
-- ☕ Aprimorando Java e fundamentos de backend
+- ☕ Aperfeiçoando Java e fundamentos backend
 - 🧩 Desenvolvimento de projetos progressivamente mais complexos
 - ⚙️ Boas práticas e arquitetura de software
-- 🐧 Ambiente Linux e produtividade
+- 🐧 Produtividade em ambiente Linux
 
 ---
 
@@ -64,7 +68,7 @@
 
 > Code. Learn. Improve. Repeat.
 
-Tecnologia para mim é mais que ferramenta — é construção contínua, aprendizado diário e evolução prática.
+Tecnologia é evolução contínua através da prática e curiosidade.
 
 ---
 
@@ -77,5 +81,5 @@ Tecnologia para mim é mais que ferramenta — é construção contínua, aprend
 ---
 
 <p align="center">
-  ⭐ Always learning, always building.
+⭐ Always learning, always building.
 </p>
