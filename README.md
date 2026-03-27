@@ -1,9 +1,7 @@
-<h1 align="center"> Gustavo de Oliveira</h1>
-
+<h1 align="center">👋 Gustavo de Oliveira</h1>
 <p align="center">
   <b>Java Developer in Progress • Technology Enthusiast • Problem Solver</b>
 </p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/gustavo-de-oliveira-51840037a/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -11,32 +9,30 @@
   <a href="mailto:gustavodeoliveira3443@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <img src="https://img.shields.io/badge/Status-Studying%20%26%20Building-brightgreen?style=for-the-badge"/>
 </p>
 
 ---
 
-## About Me
+## 🧑‍💻 About Me
 
- Desenvolvedor em formação com foco em **Java** e fundamentos sólidos de programação.
+Desenvolvedor em formação com foco em **Java** e fundamentos sólidos de programação.
+Atualmente estudando e evoluindo em:
 
- Atualmente estudando e evoluindo em:
-
-- Programação Orientada a Objetos
-- Estruturas de Dados
-- Lógica de Programação
-- Backend Development
-- Clean Code
+- 🔷 Programação Orientada a Objetos
+- 🗂️ Estruturas de Dados
+- 🧠 Lógica de Programação
+- ⚙️ Backend Development
+- ✨ Clean Code
 
 Evoluindo constantemente através de prática, estudo e construção de soluções eficientes.
 
 ---
 
-##  Tech Stack
+## 🛠️ Tech Stack
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=java,c,git,github,linux,vscode&theme=dark" />
-
 </p>
 
 ---
@@ -44,29 +40,37 @@ Evoluindo constantemente através de prática, estudo e construção de soluçõ
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170em"
-src="https://github-readme-stats.vercel.app/api?username=GustavoOMendonca&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800"/>
-
-<img height="170em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoOMendonca&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-
+  <img src="https://streak-stats.demolab.com?user=GustavoOMendonca&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="600"/>
+</p>
+<p align="center">
+  <img src="https://ghchart.ssh.surf/GustavoOMendonca" width="700"/>
 </p>
 
 ---
 
 ## 🔥 Current Focus
 
-- ☕ Aperfeiçoando Java e fundamentos backend
-- 🧩 Desenvolvimento de projetos progressivamente mais complexos
-- ⚙️ Boas práticas e arquitetura de software
-- 🐧 Produtividade em ambiente Linux
+| Área | Status |
+|---|---|
+| ☕ Java & Backend | Em progresso |
+| 🧩 Projetos práticos | Construindo |
+| ⚙️ Clean Code & Arquitetura | Estudando |
+| 🐧 Linux | Diário |
+
+---
+
+## 🏆 Goals 2025
+
+- [ ] Completar fundamentos de Java
+- [ ] Publicar 3+ projetos no GitHub
+- [ ] Aprender Spring Boot
+- [ ] Contribuir em projeto open source
 
 ---
 
 ## 🎮 Developer Mindset
 
-> Code. Learn. Improve. Repeat.
+> *"Code. Learn. Improve. Repeat."*
 
 Tecnologia é evolução contínua através da prática e curiosidade.
 
