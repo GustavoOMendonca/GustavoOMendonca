@@ -56,7 +56,7 @@ Evoluindo constantemente através de prática, estudo e construção de soluçõ
 | ☕ Java & Backend | Em progresso |
 | 🧩 Projetos práticos | Construindo |
 | ⚙️ Clean Code & Arquitetura | Estudando |
-| 🐧 Linux | Diário |
+| 🐧 Linux | Estudando |
 
 ---
 
