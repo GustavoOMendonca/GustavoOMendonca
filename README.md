@@ -60,7 +60,7 @@ Evoluindo constantemente através de prática, estudo e construção de soluçõ
 
 ---
 
-## 🏆 Goals 2025
+## 🏆 Goals 2026
 
 - [ ] Completar fundamentos de Java
 - [ ] Publicar 3+ projetos no GitHub
