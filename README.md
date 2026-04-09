@@ -16,7 +16,7 @@
 
 ## 🧑‍💻 About Me
 
-Desenvolvedor em formação com foco em **Java** e fundamentos sólidos de programação.
+Desenvolvedor em formação com foco em **Java** e fundamentos de programação.
 Atualmente estudando e evoluindo em:
 
 - 🔷 Programação Orientada a Objetos
