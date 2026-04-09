@@ -55,6 +55,7 @@ Evoluindo constantemente através de prática, estudo e construção de soluçõ
 - [ ] Publicar 3+ projetos no GitHub
 - [ ] Aprender Spring Boot
 - [ ] Contribuir em projeto open source
+- [ ] Estudar os fundamentos da linguagem C
 
 ---
 
