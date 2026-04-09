@@ -19,11 +19,12 @@
 Desenvolvedor em formação com foco em **Java** e fundamentos de programação.
 Atualmente estudando e evoluindo em:
 
-- 🔷 Programação Orientada a Objetos
-- 🗂️ Estruturas de Dados
-- 🧠 Lógica de Programação
-- ⚙️ Backend Development
-- ✨ Clean Code
+-  Java Fundamentals
+-  Programação Orientada a Objetos
+-  Estruturas de Dados
+-  Lógica de Programação
+-  Backend Development
+-  Clean Code
 
 Evoluindo constantemente através de prática, estudo e construção de soluções eficientes.
 
