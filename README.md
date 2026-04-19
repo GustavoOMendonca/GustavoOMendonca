@@ -1,6 +1,6 @@
 <h1 align="center">👋 Gustavo de Oliveira</h1>
 <p align="center">
-  <b>Java Developer in Progress • Technology Enthusiast • Problem Solver</b>
+  <b>Java Developer • Technology Enthusiast</b>
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/gustavo-de-oliveira-51840037a/">
