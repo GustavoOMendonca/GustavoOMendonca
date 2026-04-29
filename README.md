@@ -52,7 +52,7 @@ Evoluindo constantemente através de prática, estudo e construção de soluçõ
 
 ## 🏆 Goals 2026
 
-- [ ] Completar fundamentos de Java
+- [x] Completar fundamentos de Java
 - [ ] Publicar 3+ projetos no GitHub
 - [ ] Aprender Spring Boot
 - [ ] Contribuir em projeto open source
