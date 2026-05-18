@@ -1,4 +1,4 @@
-<h1 align="center">👋 Gustavo de Oliveira</h1>
+<h1 align="center"> Gustavo de Oliveira</h1>
 <p align="center">
   <b>Java Developer • Technology Enthusiast</b>
 </p>
@@ -14,7 +14,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💻 Sobre Min
 
 Desenvolvedor em formação, foco em **Java** e fundamentos de programação.
 Atualmente estudando:
@@ -38,7 +38,7 @@ Atualmente estudando:
 ---
 
 
-## 🔥 Current Focus
+## 🔥 Foco Atual
 
 | Área | Status |
 |---|---|
@@ -49,7 +49,7 @@ Atualmente estudando:
 
 ---
 
-## 🏆 Goals 2026
+## 🏆 Objetivos para 2026
 
 - [x] Completar fundamentos de Java
 - [ ] Publicar 3+ projetos no GitHub
