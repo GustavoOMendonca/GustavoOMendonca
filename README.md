@@ -14,7 +14,7 @@
 
 ---
 
-## 🧑‍💻 Sobre Min
+## 🧑‍💻 Sobre Mim
 
 Desenvolvedor em formação, foco em **Java** e fundamentos de programação.
 Atualmente estudando:
