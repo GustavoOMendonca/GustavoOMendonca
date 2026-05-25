@@ -21,7 +21,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor em e
 Acredito que dominar os fundamentos é a chave para construir softwares robustos. Por isso, sigo aprofundando meus conhecimentos em:
 
 - **Backend:** Programação Orientada a Objetos (POO), Estruturas de Dados e Arquitetura de Software.
-- **Frontend:** Desenvolvimento de interfaces dinâmicas e integração com o ecossistema Full Stack[cite: 1].
+- **Frontend:** Desenvolvimento de interfaces dinâmicas e integração com o ecossistema Full Stack.
 - **Boas Práticas:** Clean Code, Git Flow e versionamento semântico com Conventional Commits.
 
 ---
@@ -46,10 +46,10 @@ No meu fluxo de trabalho, priorizo padrões que aproximam meus projetos do ambie
 
 | Área de Atuação | Status e Iniciativas |
 |---|---|
-| ☕ Java & Backend Development | Implementando conceitos avançados de POO e estrutura de dados[cite: 1]. |
-| 🌐 Full Stack (JavaScript) | Desenvolvendo aplicações integradas de ponta a ponta[cite: 1]. |
-| 🏗️ Engenharia de Software | Aplicando Clean Code e refatoração em projetos práticos[cite: 1]. |
-| 🐧 Ambiente Linux | Configuração de ambiente e automação via terminal[cite: 1]. |
+| ☕ Java & Backend Development | Implementando conceitos avançados de POO e estrutura de dados. |
+| 🌐 Full Stack (JavaScript) | Desenvolvendo aplicações integradas de ponta a ponta. |
+| 🏗️ Engenharia de Software | Aplicando Clean Code e refatoração em projetos práticos. |
+| 🐧 Ambiente Linux | Configuração de ambiente e automação via terminal. |
 
 ---
 
@@ -80,5 +80,5 @@ Tecnologia é evolução contínua através da prática, curiosidade e resoluç�
 ---
 
 <p align="center">
-⭐ Always learning, always building.[cite: 1]
+⭐ Always learning, always building.
 </p>
