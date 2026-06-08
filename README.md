@@ -34,14 +34,6 @@ Acredito que dominar os fundamentos é a chave para construir softwares robustos
 
 ---
 
-## ⚙️ Metodologia e Padronização
-
-No meu fluxo de trabalho, priorizo padrões que aproximam meus projetos do ambiente corporativo real:
-* **Conventional Commits:** Histórico de versionamento claro, semântico e organizado.
-* **Git Flow:** Gerenciamento estruturado de ramificações (branches) para desenvolvimento seguro.
-
----
-
 ## 🔥 Foco Atual
 
 | Área de Atuação | Status e Iniciativas |
