@@ -45,7 +45,7 @@ Acredito que dominar os fundamentos é a chave para construir softwares robustos
 
 ---
 
-## 🏆 Objetivos de Engenharia para 2026
+## 🏆 Objetivos para 2026
 
 - [x] Consolidar fundamentos de Java e Programação Orientada a Objetos
 - [ ] Implementar e documentar 3+ projetos autorais completos (CRUD/APIs)
