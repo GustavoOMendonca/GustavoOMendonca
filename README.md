@@ -63,6 +63,20 @@ Tecnologia é evolução contínua através da prática, curiosidade e resoluç�
 
 ---
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/GustavoOMendonca/GustavoOMendonca/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/GustavoOMendonca/GustavoOMendonca/output/github-contribution-grid-snake.svg"
+  />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/GustavoOMendonca/GustavoOMendonca/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
 ## 🌌 Profile Views
 
 <p align="center">
