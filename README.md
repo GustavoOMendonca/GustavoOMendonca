@@ -14,7 +14,7 @@
 
 ---
 
-## 🧑‍💻 Sobre Mim
+##  Sobre Mim
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor em evolução. Meu foco principal está na criação de soluções eficientes utilizando **Java** e o ecossistema **Full Stack**. 
 
@@ -26,7 +26,7 @@ Acredito que dominar os fundamentos é a chave para construir softwares robustos
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,js,git,github,linux,vscode&theme=dark" />
@@ -34,32 +34,36 @@ Acredito que dominar os fundamentos é a chave para construir softwares robustos
 
 ---
 
-## 🔥 Foco Atual
-
-| Área de Atuação | Status e Iniciativas |
-|---|---|
-| ☕ Java & Backend Development | Implementando conceitos avançados de POO e estrutura de dados. |
-| 🌐 Full Stack (JavaScript) | Desenvolvendo aplicações integradas de ponta a ponta. |
-| 🏗️ Engenharia de Software | Aplicando Clean Code e refatoração em projetos práticos. |
-| 🐧 Ambiente Linux | Configuração de ambiente e automação via terminal. |
-
----
-
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=GustavoOMendonca&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoOMendonca&layout=compact&langs_count=7&theme=tokyonight" />
+  <img src="https://github-readme-stats-kappa-eight-93.vercel.app/api?username=GustavoOMendonca&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="195" />
+  <img src="https://github-readme-stats-kappa-eight-93.vercel.app/api/top-langs/?username=GustavoOMendonca&layout=compact&langs_count=7&theme=tokyonight" height="195" />
 </p>
 
 ---
 
-## 🎮 Developer Mindset
+---
 
-> *"Code. Learn. Improve. Repeat."*
+##  Activity Graph
 
-Tecnologia é evolução contínua através da prática, curiosidade e resolução de problemas reais
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=GustavoOMendonca&theme=tokyonight">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=GustavoOMendonca&theme=github-light">
+    <img alt="Gustavo's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=GustavoOMendonca&theme=github-light" width="100%" />
+  </picture>
+</p>
 
+---
+
+##  Featured Project
+
+<p align="center">
+  <a href="https://github.com/GustavoOMendonca/Agenda-de-Contatos">
+    <img src="https://github-readme-stats-kappa-eight-93.vercel.app/api/pin/?username=GustavoOMendonca&repo=Agenda-de-Contatos&theme=tokyonight" />
+  </a>
+</p>
 ---
 
 <picture>
@@ -70,7 +74,7 @@ Tecnologia é evolução contínua através da prática, curiosidade e resoluç�
 
 ---
 
-## 🌌 Profile Views
+##  Profile Views
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=GustavoOMendonca&color=blueviolet&style=for-the-badge"/>
@@ -79,5 +83,5 @@ Tecnologia é evolução contínua através da prática, curiosidade e resoluç�
 ---
 
 <p align="center">
-⭐ Always learning, always building.
+ Always learning, always building.
 </p>
