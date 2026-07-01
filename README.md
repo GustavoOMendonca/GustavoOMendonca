@@ -45,13 +45,12 @@ Acredito que dominar os fundamentos é a chave para construir softwares robustos
 
 ---
 
-## 🏆 Objetivos para 2026
+## 📊 GitHub Stats
 
-- [x] Consolidar fundamentos de Java e Programação Orientada a Objetos
-- [ ] Implementar e documentar 3+ projetos autorais completos (CRUD/APIs)
-- [ ] Dominar o desenvolvimento backend escalável com Spring Boot
-- [ ] Expandir conhecimentos para arquitetura de nuvem e ecossistemas corporativos
-- [ ] Contribuir ativamente em projetos de código aberto (Open Source)
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=GustavoOMendonca&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoOMendonca&layout=compact&langs_count=7&theme=tokyonight" />
+</p>
 
 ---
 
